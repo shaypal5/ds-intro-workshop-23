@@ -1,44 +1,43 @@
-DataLearn Supervised ML Intro 2019
-##################################
+Introduction to Machine Learning
+################################
 
-The repository of the hands-on introduction to machine learning workshop of the DataLearn 2019 track at DataHack 2019.
+The repository of my hands-on introduction to machine learning workshop.
+It was adapted from `my workshop for the DataLearn 2019 track at DataHack 2019 <https://youtu.be/Su8YcXgkDsk?t=1701>`_.
 
-Video link: https://youtu.be/Su8YcXgkDsk?t=1701
-
-`Meetup event link <https://www.meetup.com/DataHack/events/263740425/>`_
-
-Notebooks by Shay Palachy. Presentation by Shay Palachy and Dana Kaner.   *(Thank you Dana <3)*
+Notebooks by Shay Palachy. Slides by `Shay Palachy Affek <https://www.shaypalachy.com/>`_ and Dana Kaner *(Thank you Dana <3)*.
 
 Resources
 =========
 
-* Presentation: 
+* `Slides <https://drive.google.com/drive/folders/11jZ-DVN1Rkj5Ml32IBfCMhyPQOKYPeVu?usp=sharing>`_
 
-  * `Intro to Machine Learning presentation <https://github.com/DataHackIL/DataLearn-ML-Intro-2019/blob/master/Intro%20to%20Machine%20Learning.pdf>`_
-  * Credits: Shay Palachy **and Dana Kaner**
-  
-  * Video recording: https://youtu.be/Su8YcXgkDsk?t=1701
-  
+  * Credits: Shay Palachy Affek **and Dana Kaner**
+
 * Notebooks:
 
-  1. `Introducing Jupyter notebooks <https://github.com/DataHackIL/DataLearn-ML-Intro-2019/blob/master/part_1.introducing_jupyter.ipynb>`_
-  2. `Introduction to numpy <https://github.com/DataHackIL/DataLearn-ML-Intro-2019/blob/master/part_2.numpy.ipynb>`_
-  3. `Introduction to pandas <https://github.com/DataHackIL/DataLearn-ML-Intro-2019/blob/master/part_3.pandas.ipynb>`_
-  4. `Exploratory Data Analysis <https://github.com/DataHackIL/DataLearn-ML-Intro-2019/blob/master/part_4.EDA.ipynb>`_
-  5. `Preprocessing <https://github.com/DataHackIL/DataLearn-ML-Intro-2019/blob/master/part_5.Preprocessing.ipynb>`_
-  6. `Modeling <https://github.com/DataHackIL/DataLearn-ML-Intro-2019/blob/master/part_6.modeling.ipynb>`_
-  7. `Utility: Reading the data <https://github.com/DataHackIL/DataLearn-ML-Intro-2019/blob/master/util_0.reading_the_data.ipynb>`_
+  1. `Introducing Jupyter notebooks <https://github.com/shaypal5/ds-intro-workshop-23/blob/master/part_1.introducing_jupyter.ipynb>`_
+  2. `Introduction to Python <https://github.com/shaypal5/ds-intro-workshop-23/blob/main/part_2.python.ipynb>`_
+  3. `Introduction to numpy <https://github.com/shaypal5/ds-intro-workshop-23/blob/master/part_3.numpy.ipynb>`_
+  4. `Introduction to pandas <https://github.com/shaypal5/ds-intro-workshop-23/blob/master/part_4.pandas.ipynb>`_
+  5. `Exploratory Data Analysis <https://github.com/shaypal5/ds-intro-workshop-23/blob/master/part_5.EDA.ipynb>`_
+  6. `Preprocessing <https://github.com/shaypal5/ds-intro-workshop-23/blob/master/part_6.Preprocessing.ipynb>`_
+  7. `Modeling <https://github.com/shaypal5/ds-intro-workshop-23/blob/master/part_7.modeling.ipynb>`_
 
 
 Outline
 =======
 
-* Tools of the trade
+Part 1: Tools of the trade
+--------------------------
 
-  * Jupyter notebooks
-  * numpy
-  * pandas
- 
+* Jupyter notebooks
+* Python
+* numpy
+* pandas
+
+Part 2: Data
+------------
+
 * Data exploration
 * Preprocessing
 
@@ -48,10 +47,11 @@ Outline
   * Feature extraction/generation
   * Feature selection
   * Dimensionality reduction
-  
-* Modeling
- 
-  * Model fit & loss functions
-  * Splitting your data
-  * Model evaluation
-  * Hyperparameter Optimization
+
+Par 3: Modeling
+---------------
+
+* Model fit & loss functions
+* Splitting your data
+* Model evaluation
+* Hyperparameter Optimization
